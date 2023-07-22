@@ -8,7 +8,7 @@ It`s a Computer-Security project to encrypt and decrypt messages using several t
 - Polyalphabetic Cipher technique
 <br />
 
-<h2>Languages and IDE adn libraries Used</h2>
+<h2>Languages and IDE and libraries Used</h2>
 
 - <b>Python</b>
 - <b>Pycharm</b>
