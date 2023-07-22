@@ -3,9 +3,10 @@
 
 <h2>Description</h2>
 It`s a Computer-Security project to encrypt and decrypt messages using several techniques like:
-- Ceaser Cipher technique
-- Playfair Cipher technique
-- Polyalphabetic Cipher technique
+
+- <b>Ceaser Cipher technique</b>
+- <b>Playfair Cipher technique</b>
+- <b>Polyalphabetic Cipher technique</b>
 <br />
 
 <h2>Languages and IDE and libraries Used</h2>
