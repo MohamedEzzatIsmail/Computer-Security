@@ -18,5 +18,5 @@ It`s a Computer-Security project to encrypt and decrypt messages using several t
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 10</b>
 
